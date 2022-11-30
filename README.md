@@ -32,6 +32,7 @@ Por ejemplo, en mi caso:
 ![](https://github.com/zazi479/practica3/blob/cecbc2caf4a7c14777045e1e1f140592ec7b2f36/cap3.jpg)
 
 git tag  -a v3  -m "Eliminar tercero "  7c5f
+
 ![](https://github.com/zazi479/practica3/blob/cecbc2caf4a7c14777045e1e1f140592ec7b2f36/cap4.jpg)
 ![](https://github.com/zazi479/practica3/blob/cecbc2caf4a7c14777045e1e1f140592ec7b2f36/cap5.jpg)
 

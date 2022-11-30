@@ -13,7 +13,7 @@ Los 2 siguientes (git show y git diff) son para ver los cambios realizados entre
 Básicamente git show nos permite ver los cambios de un commit respecto al anterior, mientras que git diff nos permite ver cambios en un rango de commits.**
 
 
-#1. Etiquetamos el commit primero y el tercero.
+# 1. Etiquetamos el commit primero y el tercero.
 
 El primer commit será la versión 1 de nuestro proyecto. La etiqueta será v1.
 
@@ -46,17 +46,27 @@ Si por cualquier motivo nos equivocamos al crear la etiqueta podemos eliminarla 
 git tag -d nombre_etiqueta
 
 
-#2. Usando etiquetas para movernos
+# 2. Usando etiquetas para movernos
 
 Las etiquetas nos permiten referenciar commits de una forma más cómoda que usando el identificador de hash.
 
 Por ejemplo es más cómodo usar:
 
+git checkout v1
+
+![](https://github.com/zazi479/practica3/blob/7f92cabcec37a0c2b299ae8590b070a02175b463/cap6.jpg)
+
+que usar
+
+git checkout 8b67
 
 
+Para volver al último commit haz
 
+git checkout master
 
-![]()
+# 3. Examinado cambios de un commit respecto al anterior.
+
 ![]()
 ![]()
 ![]()

@@ -17,7 +17,7 @@ Básicamente git show nos permite ver los cambios de un commit respecto al anter
 
 El primer commit será la versión 1 de nuestro proyecto. La etiqueta será v1.
 
-El tercer commit será la versión 2 de nuestro proyecto. La etiqueta será v2.
+El tercer commit será la versión 3 de nuestro proyecto. La etiqueta será v3.
 
 El segundo commit no será etiquetado.
 

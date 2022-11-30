@@ -102,6 +102,7 @@ La forma de uso es
 Por ejemplo, para ver los cambios entre la versión 1 y la versión 2, hacemos
 
   git  diff  v5..v4
+  
 ![](https://github.com/zazi479/practica3/blob/f11da6946e25f03686d3085d07c4d0c25c63a686/cap9.jpg)
 
 Podemos ver que se han añadido 1 líneas desde el commit v5.

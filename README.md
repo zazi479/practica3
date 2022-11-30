@@ -22,7 +22,7 @@ El tercer commit será la versión 3 de nuestro proyecto. La etiqueta será v3.
 El segundo commit no será etiquetado.
 
 Para etiquetar utilizamos el comando
-  git  tag  -a  nombre_etiqueta  -m  "Mensaje"   commit_a_etiquetar;
+  git  tag  -a  nombre_etiqueta  -m  "Mensaje"   commit_a_etiquetar
 
 Por ejemplo, en mi caso:
 
